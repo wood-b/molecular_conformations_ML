@@ -10,7 +10,7 @@ An active learning algorithm is implemented in the [conformer_active_gpr](https:
 
 The code currently implemented (7/16/19) is only a proof of concept. The representation/featurization (coulomb matrix eigenvalues), data splitting, and model (GPR) have not been optimized. This work is intended as a starting point/test bed for future work.
 
-##Dependencies
+## Dependencies
 
 - Python
 - RDKit
