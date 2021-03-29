@@ -63,7 +63,7 @@ protobuf==3.8.0
 ptyprocess==0.6.0
 pycparser==2.19
 PyDispatcher==2.0.5
-Pygments==2.4.2
+Pygments==2.7.4
 pymatgen==2019.6.5
 pyOpenSSL==19.0.0
 pyparsing==2.4.0
